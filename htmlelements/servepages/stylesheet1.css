@@ -1,0 +1,22 @@
+.banner {
+    border-radius: 6px;
+    background-color: green;
+    color: white;
+    margin: 0;
+}
+.h1 {
+    margin: 0;
+}
+
+ul {    
+    list-style-type: none;
+    background: white;
+    padding: 0;
+    width:10%;
+}
+
+ul li {
+    border-radius: 4px;
+    background: gray;
+    margin: 1px;
+}
