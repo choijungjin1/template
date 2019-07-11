@@ -1,0 +1,7 @@
+.color01{background-color: aqua; border: 2px solid violet;}
+.color02{background-color: chartreuse;}
+body{
+    background-image: url("../../images/img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
