@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+.header {
+    background-color: #1f1f1f;
+    padding: 20px;
+    text-align: center;
+}
+.footer {
+    background-color: #f1f11f;
+    padding: 10px;
+    text-align: center;
+}
